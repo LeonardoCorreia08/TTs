@@ -1,34 +1,12 @@
-# Digital Innovation One
+# TTS
 
-Código criado para utilização junto a plataforma da Digital Innovation One
+Código criado com base na atividade 1 do curso de TTS
 
 <p align="center"><img src="./Logo.png" width="500"></p>
 
-# Darknet Project
+# Instalar pacotes necessários:
 
-Este projeto é baseado no Darknet, uma estrutura de código aberto escrita em C e CUDA para treinamento e inferência de redes neurais convolucionais, com foco em detecção de objetos usando o algoritmo YOLO (You Only Look Once).
-
-## Requisitos
-
-- Linux
-- CUDA
-- OpenCV
-
-Certifique-se de ter instalado todas as dependências necessárias antes de prosseguir.
-
-## Configuração
-
-# Clone o repositório Darknet
-git clone https://github.com/AlexeyAB/darknet.git
-
-# Compile o Darknet
-cd darknet
-make
-
-
-realiza várias tarefas relacionadas ao processamento de áudio, reconhecimento de fala e tradução. Aqui está um resumo das funcionalidades do código:
-
-Instalar pacotes necessários: O notebook instala vários pacotes Python, como gTTS (Google Text-to-Speech), pydub (processamento de áudio), SpeechRecognition (reconhecimento de fala), ffmpeg-python (conversão de áudio), pyaudio (entrada e saída de áudio) e nltk (Natural Language Toolkit).
+O notebook instala vários pacotes Python, como gTTS (Google Text-to-Speech), pydub (processamento de áudio), SpeechRecognition (reconhecimento de fala), ffmpeg-python (conversão de áudio), pyaudio (entrada e saída de áudio) e nltk (Natural Language Toolkit).
 
 Gravar áudio: O notebook define uma função record que permite gravar áudio do usuário por um determinado número de segundos.
 
