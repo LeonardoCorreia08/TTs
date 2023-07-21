@@ -23,3 +23,7 @@ Conversão de formato de áudio: Se o usuário gravar uma frase usando o microfo
 Transcrição e tradução de áudio gravado: Após a conversão do formato do áudio gravado, a função transcrever_e_traduzir é chamada para transcrever o áudio em português e traduzi-lo para o inglês.
 
 Note que, para obter a funcionalidade completa do código, é necessário executar o notebook Atvd1.ipynb no ambiente Colaboratory (Colab) ou em outro ambiente Python com os pacotes necessários instalados.
+
+## Contribuições
+
+Contribuições são bem-vindas! Se você encontrar algum problema, tiver sugestões ou quiser adicionar novos recursos, fique à vontade para abrir uma issue ou enviar um pull request.
