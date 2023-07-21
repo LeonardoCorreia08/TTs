@@ -21,7 +21,7 @@ O código inclui uma função chamada transcrever_e_traduzir, que utiliza o reco
 ## Solicitar entrada do usuário: 
 O código apresenta um menu para o usuário escolher uma opção entre digitar uma frase, selecionar uma das cinco frases pré-definidas em português ou gravar uma frase usando o microfone.
 
-## intetizar áudio em português: 
+## Sintetizar áudio em português: 
 Com base na escolha do usuário, o código usa a biblioteca gTTS para sintetizar o texto em português e reproduzir o áudio correspondente.
 
 ## Conversão de formato de áudio: 
