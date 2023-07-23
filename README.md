@@ -10,7 +10,7 @@ O notebook instala vários pacotes Python, como gTTS (Google Text-to-Speech), py
 
 ## Gravar áudio: 
 
-O notebook define uma função record que permite gravar áudio do usuário por um determinado número de segundos.
+O notebook define uma função record que permite gravar áudio do usuário por um determinado número de segundos..
 
 ## Adicionar pontuação correta ao texto traduzido: 
 O código inclui uma função chamada add_punctuation, que analisa as palavras traduzidas e adiciona pontuação apropriada para melhorar a compreensão do texto.
